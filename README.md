@@ -1,3 +1,4 @@
 # BlogNetwork
-http://3.109.46.236:8080/BlogNetwork/
-https://youtu.be/GedkPqoN2HE
+Aws deployment :http://3.109.46.236:8080/BlogNetwork/
+
+You Tube :https://youtu.be/GedkPqoN2HE
